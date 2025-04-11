@@ -1,0 +1,72 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "cardHolder": "Alice Johnson",
+        "cardNumber": "**** **** **** 1234",
+        "balance": 4523.20
+      },
+      {
+        "id": 2,
+        "cardHolder": "Bob Smith",
+        "cardNumber": "**** **** **** 5678",
+        "balance": 3090.85
+      }
+    ],
+    "transactions": [
+      {
+        "id": 1,
+        "description": "Spotify Subscription",
+        "icon": "🎵",
+        "amount": -9.99,
+        "date": "2025-04-05"
+      },
+      {
+        "id": 2,
+        "description": "Salary",
+        "icon": "💼",
+        "amount": 2500.00,
+        "date": "2025-04-01"
+      }
+    ],
+    "weeklyActivity": [
+      { "day": "Mon", "deposit": 500, "withdrawal": 100 },
+      { "day": "Tue", "deposit": 200, "withdrawal": 150 },
+      { "day": "Wed", "deposit": 300, "withdrawal": 50 },
+      { "day": "Thu", "deposit": 450, "withdrawal": 300 },
+      { "day": "Fri", "deposit": 250, "withdrawal": 200 },
+      { "day": "Sat", "deposit": 100, "withdrawal": 75 },
+      { "day": "Sun", "deposit": 0, "withdrawal": 30 }
+    ],
+    "expenseStats": [
+      { "category": "Entertainment", "amount": 200 },
+      { "category": "Bills", "amount": 350 },
+      { "category": "Investments", "amount": 500 },
+      { "category": "Others", "amount": 150 }
+    ],
+    "contacts": [
+      { "id": 1, "name": "Jane Doe", "role": "Designer", "avatar": "https://i.pravatar.cc/50?img=1" },
+      { "id": 2, "name": "Mike Lee", "role": "Engineer", "avatar": "https://i.pravatar.cc/50?img=2" }
+    ],
+    "balanceHistory": [
+      { "month": "Jan", "balance": 2000 },
+      { "month": "Feb", "balance": 2200 },
+      { "month": "Mar", "balance": 2500 },
+      { "month": "Apr", "balance": 2300 }
+    ],
+    "userProfile": {
+      "name": "Alice Johnson",
+      "username": "alice.j",
+      "email": "alice@example.com",
+      "dob": "1990-04-01",
+      "address": {
+        "present": "123 Elm St",
+        "permanent": "456 Oak St",
+        "city": "Springfield",
+        "postalCode": "12345",
+        "country": "USA"
+      },
+      "profilePic": "https://i.pravatar.cc/100"
+    }
+  }
+  
