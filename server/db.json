@@ -40,20 +40,39 @@
     ],
     "expenseStats": [
       { "category": "Entertainment", "amount": 200 },
-      { "category": "Bills", "amount": 350 },
-      { "category": "Investments", "amount": 500 },
-      { "category": "Others", "amount": 150 }
+      { "category": "Bills", "amount": 100 },
+      { "category": "Investments", "amount": 150 },
+      { "category": "Others", "amount": 250 }
     ],
     "contacts": [
-      { "id": 1, "name": "Jane Doe", "role": "Designer", "avatar": "https://i.pravatar.cc/50?img=1" },
-      { "id": 2, "name": "Mike Lee", "role": "Engineer", "avatar": "https://i.pravatar.cc/50?img=2" }
+      {
+        "id": 1,
+        "name": "Livia Bator",
+        "role": "CEO",
+        "avatar": "https://i.pravatar.cc/50?img=3"
+      },
+      {
+        "id": 2,
+        "name": "Randy Press",
+        "role": "Director",
+        "avatar": "https://i.pravatar.cc/50?img=4"
+      },
+      {
+        "id": 3,
+        "name": "Workman",
+        "role": "Designer",
+        "avatar": "https://i.pravatar.cc/50?img=5"
+      }
     ],
-    "balanceHistory": [
-      { "month": "Jan", "balance": 2000 },
-      { "month": "Feb", "balance": 2200 },
-      { "month": "Mar", "balance": 2500 },
-      { "month": "Apr", "balance": 2300 }
-    ],
+"balanceHistory": [
+  { "month": "Jul", "balance": 180 },
+  { "month": "Aug", "balance": 420 },
+  { "month": "Sep", "balance": 300 },
+  { "month": "Oct", "balance": 780 },
+  { "month": "Nov", "balance": 200 },
+  { "month": "Dec", "balance": 580 },
+  { "month": "Jan", "balance": 720 }
+],
     "userProfile": {
       "name": "Alice Johnson",
       "username": "alice.j",
