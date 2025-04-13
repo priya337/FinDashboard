@@ -19,7 +19,7 @@ server.use(jsonServer.rewriter({
 
 server.use(router);
 
-const PORT = 1200;
+const PORT = 1400;
 server.listen(PORT, () => {
   console.log(`JSON Server is running on http://localhost:${PORT}`);
 });

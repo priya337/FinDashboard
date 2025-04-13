@@ -11,6 +11,18 @@
         "cardHolder": "Bob Smith",
         "cardNumber": "**** **** **** 5678",
         "balance": 3090.85
+      },
+      {
+        "id": 3,
+        "cardHolder": "Charlie Doe",
+        "cardNumber": "**** **** **** 9012",
+        "balance": 7890.12
+      },
+      {
+        "id": 4,
+        "cardHolder": "Diana White",
+        "cardNumber": "**** **** **** 9090",
+        "balance": 9890.12
       }
     ],
     "transactions": [
@@ -23,6 +35,20 @@
       },
       {
         "id": 2,
+        "description": "Salary",
+        "icon": "💼",
+        "amount": 2500.00,
+        "date": "2025-02-01"
+      },
+      {
+        "id": 3,
+        "description": "Salary",
+        "icon": "💼",
+        "amount": 3500.00,
+        "date": "2025-03-01"
+      },
+      {
+        "id": 4,
         "description": "Salary",
         "icon": "💼",
         "amount": 2500.00,
